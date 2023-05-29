@@ -1,3 +1,3 @@
-# AluraBook
+# AluraBook 📚
 
-## Projeto desenvolvito durante o curso de mobile-first da Alura 💻
+## Projeto desenvolvito durante o curso de mobile-first da Alura 📱
