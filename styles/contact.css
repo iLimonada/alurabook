@@ -24,7 +24,7 @@
 .contato__email{
     background-color: transparent;
     border: 1px solid var(--azul);
-    color: var(--branco);
+    color: var(--azul);
     border-radius: 1.5rem;
     padding: 1rem;
     width: 90%;
